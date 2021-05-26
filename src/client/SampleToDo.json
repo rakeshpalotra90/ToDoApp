@@ -1,0 +1,86 @@
+{
+  "todos": [
+    {
+      "__typename": "Todo",
+      "id": 1,
+      "text": "Call carpenter to fix kitchen pipe",
+      "completed": false,
+      "priority": true,
+      "repeat": false,
+      "tags": [],
+      "timeStamp": null,
+      "comment": 0
+
+    },
+    {
+      "__typename": "Todo",
+      "id": 2,
+      "text": "Pick Melanie from football game",
+      "completed": false,
+      "priority": false,
+      "repeat": false,
+      "tags": [
+        {
+          "id": 1,
+          "title": "Home"
+        },
+        {
+          "id": 2,
+          "title": "Celebration"
+        },
+        {
+          "id": 3,
+          "title": "Chores"
+        }
+      ],
+      "timeStamp": null,
+      "comment": 0
+    },
+    {
+      "__typename": "Todo",
+      "id": 3,
+      "text": "Mow the lawn",
+      "completed": false,
+      "priority": false,
+      "repeat": true,
+      "tags": [],
+      "timeStamp": 1632819648000,
+      "comment": 1
+    },
+    {
+      "__typename": "Todo",
+      "id": 4,
+      "text": "Help Andreas with homework",
+      "completed": false,
+      "priority": true,
+      "repeat": false,
+      "tags": [],
+      "timeStamp": null,
+      "comment": 0
+    },
+    {
+      "__typename": "Todo",
+      "id": 5,
+      "text": "Pick Melanie from football game",
+      "completed": true,
+      "priority": false,
+      "repeat": false,
+      "tags": [
+        {
+          "id": 1,
+          "title": "Home"
+        },
+        {
+          "id": 2,
+          "title": "Celebration"
+        },
+        {
+          "id": 3,
+          "title": "Chores"
+        }
+      ],
+      "timeStamp": 1632819648000,
+      "comment": 1
+    }
+  ]
+}
